@@ -1,0 +1,12 @@
+<svg id="icon_blank.svg" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #28a095;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="シェイプ_1" data-name="シェイプ 1" class="cls-1" d="M0,4H2v8h8v2H0V4Z"/>
+  <path id="長方形_1" data-name="長方形 1" class="cls-1" d="M4,10V0H14V10H4Zm8-8H6V8h6V2Z"/>
+</svg>

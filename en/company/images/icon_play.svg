@@ -1,0 +1,12 @@
+<svg id="icon_play.svg" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="楕円形_1" data-name="楕円形 1" class="cls-1" d="M40,80A40,40,0,1,1,80,40,40,40,0,0,1,40,80ZM40,2A38,38,0,1,0,78,40,38,38,0,0,0,40,2Z"/>
+  <path id="多角形_1" data-name="多角形 1" class="cls-1" d="M51,40L35.015,50V29.992Z"/>
+</svg>
